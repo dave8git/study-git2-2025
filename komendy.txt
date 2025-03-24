@@ -1,2 +1,2 @@
-lorem ipsum, second ipsum, third ipsum
+npx html-validate
 
